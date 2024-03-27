@@ -1,0 +1,10 @@
+[package]
+name = "plotting-contours"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colorbrewer = "0.2.0"
+contour = "0.12.1"
+plotters = "0.3.5"
+rand = "0.8"
