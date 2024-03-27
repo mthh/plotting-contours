@@ -2,6 +2,7 @@
 name = "plotting-contours"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
 
 [dependencies]
 colorbrewer = "0.2.0"
